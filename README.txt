@@ -4,4 +4,4 @@
 "Git."
 "Git who?"
 "I'm a turd."
-"Git this joke over with."
+"Git on with the assignment!"
